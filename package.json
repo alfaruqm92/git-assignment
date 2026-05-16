@@ -1,0 +1,28 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "Tailwindcss"
+  ],
+  "homepage": "https://github.com/alfaruqm92/git-assignment#readme",
+  "bugs": {
+    "url": "https://github.com/alfaruqm92/git-assignment/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfaruqm92/git-assignment.git"
+  },
+  "license": "ISC",
+  "author": "Alfar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.0",
+    "tailwindcss": "^4.3.0"
+  },
+  "devDependencies": {}
+}
